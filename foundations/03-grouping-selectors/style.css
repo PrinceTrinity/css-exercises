@@ -1,0 +1,15 @@
+.option1
+{
+    background-color: #000000;
+    color: #ffffff;
+}
+.option2
+{
+    background-color: #ffee00;
+
+}
+.option1, .option2
+{
+   font-size: 28px;
+   font-family: Helvetica, "New Times Roman", sans-serif;
+}
